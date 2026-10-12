@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál de estas conductas puede indicar un uso problemático de la IA?",
+    "options": [
+      "Usar IA para buscar información de tarea",
+      "Preferir hablar con chatbots antes que con amigos reales",
+      "Usar IA para traducir textos",
+      "Pedir ayuda a IA para aprender inglés"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reemplazar vínculos humanos por chatbots es una señal de dependencia emocional hacia la IA.",
+    "headerColor": "#7C3AED",
+    "backgroundColor": "#EDE9FE"
+  },
+  {
+    "id": 2,
+    "question": "Usar IA hasta la madrugada todos los días puede provocar...",
+    "options": [
+      "Mejor concentración en clases",
+      "Mayor creatividad",
+      "Trastornos del sueño y fatiga crónica",
+      "Más energía durante el día"
+    ],
+    "correctIndex": 2,
+    "explanation": "La exposición a pantallas de noche altera la melatonina y afecta el descanso, especialmente en adolescentes.",
+    "headerColor": "#0E7490",
+    "backgroundColor": "#E0F2FE"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué pasa cuando un adolescente usa IA para resolver TODAS sus tareas sin intentarlo primero?",
+    "options": [
+      "Aprende más rápido",
+      "No desarrolla habilidades propias de pensamiento crítico",
+      "Mejora su memoria",
+      "Se vuelve más independiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delegar todo el pensamiento a la IA impide desarrollar habilidades cognitivas esenciales para la vida.",
+    "headerColor": "#B45309",
+    "backgroundColor": "#FEF3C7"
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es un riesgo de depender de la IA para manejar emociones?",
+    "options": [
+      "Que la IA te dé mejores consejos que una persona",
+      "Que aprendas a comunicarte mejor",
+      "Perder la capacidad de gestionar emociones sin tecnología",
+      "Que te vuelvas más empático"
+    ],
+    "correctIndex": 2,
+    "explanation": "La regulación emocional es una habilidad humana que se aprende con práctica real, no con chatbots.",
+    "headerColor": "#BE185D",
+    "backgroundColor": "#FCE7F3"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál de estas es una forma SALUDABLE de usar la IA?",
+    "options": [
+      "Usarla para no tener que pensar en nada",
+      "Usarla como punto de partida y luego desarrollar tus propias ideas",
+      "Consultarla en lugar de hablar con tu familia",
+      "Usarla más de 6 horas seguidas por día"
+    ],
+    "correctIndex": 1,
+    "explanation": "La IA es una herramienta, no un reemplazo. Usarla para arrancar y luego pensar por vos mismo es el uso saludable.",
+    "headerColor": "#15803D",
+    "backgroundColor": "#DCFCE7"
+  }
+]
